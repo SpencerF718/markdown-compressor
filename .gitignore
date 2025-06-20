@@ -1,3 +1,9 @@
+# Ignore the test script in the project root
+run_test.py
+
+# Ignore the test vault folder
+test_vault/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
